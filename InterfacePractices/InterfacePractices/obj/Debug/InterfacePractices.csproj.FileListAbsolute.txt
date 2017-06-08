@@ -1,0 +1,10 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\InterfacePractices.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\InterfacePractices.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\InterfacePractices.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\PattersonT_ProgramUtil.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\PattersonT_CIO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\bin\Debug\PattersonT_ProgramUtil.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\obj\Debug\InterfacePractices.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\obj\Debug\InterfacePractices.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InterfacePractices\InterfacePractices\obj\Debug\InterfacePractices.pdb

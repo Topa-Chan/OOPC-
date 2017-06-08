@@ -1,0 +1,6 @@
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\bin\Debug\ScratchConsole.exe.config
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\bin\Debug\ScratchConsole.exe
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\bin\Debug\ScratchConsole.pdb
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\obj\Debug\ScratchConsole.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\obj\Debug\ScratchConsole.exe
+c:\users\tyler\documents\visual studio 2017\Projects\ScratchConsole\ScratchConsole\obj\Debug\ScratchConsole.pdb

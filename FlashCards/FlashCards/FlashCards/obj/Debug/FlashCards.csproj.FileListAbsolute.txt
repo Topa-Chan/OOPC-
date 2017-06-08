@@ -1,0 +1,10 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\PattersonT_ProgramUtil.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\PattersonT_CIO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FlashCards\FlashCards\FlashCards\bin\Debug\PattersonT_ProgramUtil.pdb

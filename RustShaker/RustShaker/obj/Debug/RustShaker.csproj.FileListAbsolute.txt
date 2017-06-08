@@ -1,0 +1,6 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\bin\Debug\RustShaker.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\bin\Debug\RustShaker.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\bin\Debug\RustShaker.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\obj\Debug\RustShaker.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\obj\Debug\RustShaker.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\RustShaker\RustShaker\obj\Debug\RustShaker.pdb

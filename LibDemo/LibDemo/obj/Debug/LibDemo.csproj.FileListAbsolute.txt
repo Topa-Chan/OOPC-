@@ -1,0 +1,5 @@
+c:\users\tyler\documents\visual studio 2017\Projects\LibDemo\LibDemo\bin\Debug\PattersonT_LibDemo.dll
+c:\users\tyler\documents\visual studio 2017\Projects\LibDemo\LibDemo\bin\Debug\PattersonT_LibDemo.pdb
+c:\users\tyler\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\PattersonT_LibDemo.dll
+c:\users\tyler\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\PattersonT_LibDemo.pdb

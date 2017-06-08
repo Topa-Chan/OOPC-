@@ -1,0 +1,8 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\bin\Debug\UsingLibraries.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\bin\Debug\UsingLibraries.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\bin\Debug\UsingLibraries.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\bin\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\bin\Debug\PattersonT_CIO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\obj\Debug\UsingLibraries.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\obj\Debug\UsingLibraries.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\UsingLibraries\UsingLibraries\obj\Debug\UsingLibraries.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\bin\Debug\ProgramUtilTester.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\bin\Debug\ProgramUtilTester.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\bin\Debug\ProgramUtilTester.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\obj\Debug\ProgramUtilTester.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\obj\Debug\ProgramUtilTester.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\bin\Debug\ProgUtilLib.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ConsoleApp1\bin\Debug\ProgUtilLib.pdb

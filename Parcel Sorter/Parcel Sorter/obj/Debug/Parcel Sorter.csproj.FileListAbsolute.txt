@@ -1,0 +1,8 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\bin\Debug\Parcel Sorter.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\bin\Debug\Parcel Sorter.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\bin\Debug\Parcel Sorter.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\bin\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\bin\Debug\PattersonT_CIO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\obj\Debug\Parcel Sorter.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\obj\Debug\Parcel Sorter.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\Parcel Sorter\Parcel Sorter\obj\Debug\Parcel Sorter.csprojResolveAssemblyReference.cache

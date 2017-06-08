@@ -1,0 +1,6 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\bin\Debug\InClassEx170428.exe.config
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\bin\Debug\InClassEx170428.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\bin\Debug\InClassEx170428.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\obj\Debug\InClassEx170428.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\obj\Debug\InClassEx170428.exe
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\InClass\InClassEx170428\InClassEx170428\obj\Debug\InClassEx170428.pdb

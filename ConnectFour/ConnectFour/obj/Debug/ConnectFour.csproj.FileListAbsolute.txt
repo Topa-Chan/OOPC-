@@ -1,0 +1,8 @@
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\bin\Debug\PattersonT_CIO.dll
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\bin\Debug\PattersonT_CIO.pdb
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+c:\users\tyler\documents\visual studio 2017\Projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb

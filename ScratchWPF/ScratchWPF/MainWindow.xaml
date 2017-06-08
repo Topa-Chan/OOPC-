@@ -1,0 +1,44 @@
+﻿<Window x:Class="ScratchWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScratchWPF"
+        mc:Ignorable="d"
+        Title="WPF Magic!" Height="350" Width="525">
+    <StackPanel Background="#F58092">
+
+        <Label x:Name="nameLabel"
+               Height="50"
+               Background="MediumPurple"
+               Margin="20 50"
+               FontSize="24"
+               HorizontalContentAlignment="Center"
+               Content="I'm Gay"/>
+
+        <Button x:Name="RandomButton"
+                Height="50"
+                Margin="20 2"
+                FontSize="24"
+                HorizontalContentAlignment="Center"
+                Content="New Name" 
+                Click="RandomButton_Click"/>
+        
+        <Button x:Name="NewFirstName"
+                Height="50"
+                Margin="20 2"
+                FontSize="24"
+                HorizontalContentAlignment="Center"
+                Content="New First Name" 
+                Click="FirstNameButton_Click"/>
+
+        <Button x:Name="NewLastName"
+                Height="50"
+                Margin="20 2"
+                FontSize="24"
+                HorizontalContentAlignment="Center"
+                Content="New Last Name"
+                Click="LastNameButton_Click"/>
+
+    </StackPanel>
+</Window>

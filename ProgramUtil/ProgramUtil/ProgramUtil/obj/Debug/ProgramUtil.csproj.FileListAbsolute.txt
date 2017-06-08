@@ -1,0 +1,5 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ProgramUtil\obj\Debug\ProgramUtil.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ProgramUtil\bin\Debug\PattersonT_ProgramUtil.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ProgramUtil\bin\Debug\PattersonT_ProgramUtil.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ProgramUtil\obj\Debug\PattersonT_ProgramUtil.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ProgramUtil\ProgramUtil\ProgramUtil\obj\Debug\PattersonT_ProgramUtil.pdb

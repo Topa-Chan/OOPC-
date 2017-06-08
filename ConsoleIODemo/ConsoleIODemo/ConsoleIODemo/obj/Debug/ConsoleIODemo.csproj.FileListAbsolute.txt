@@ -1,0 +1,5 @@
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\ConsoleIODemo\ConsoleIODemo\bin\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\ConsoleIODemo\ConsoleIODemo\bin\Debug\PattersonT_CIO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\ConsoleIODemo\ConsoleIODemo\obj\Debug\ConsoleIODemo.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\ConsoleIODemo\ConsoleIODemo\obj\Debug\PattersonT_CIO.dll
+C:\Users\Tyler\Documents\Visual Studio 2017\Projects\ConsoleIODemo\ConsoleIODemo\ConsoleIODemo\obj\Debug\PattersonT_CIO.pdb

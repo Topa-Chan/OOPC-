@@ -1,0 +1,8 @@
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\bin\Debug\LibTester.exe.config
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\bin\Debug\LibTester.exe
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\bin\Debug\LibTester.pdb
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\bin\Debug\PattersonT_LibDemo.dll
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\bin\Debug\PattersonT_LibDemo.pdb
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\obj\Debug\LibTester.csprojResolveAssemblyReference.cache
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\obj\Debug\LibTester.exe
+c:\Users\Tyler\documents\visual studio 2017\Projects\LibDemo\LibTester\obj\Debug\LibTester.pdb
